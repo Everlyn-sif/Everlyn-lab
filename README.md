@@ -1,5 +1,4 @@
-# Everlyn-lab
-My first GitHub repository – a space to learn, practice, and grow my coding journey.
+
 # 🌟 Everlyn Lab
 
 Welcome to my very first GitHub repository! 🚀  
